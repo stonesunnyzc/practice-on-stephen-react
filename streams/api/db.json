@@ -1,0 +1,78 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is a testing stream",
+      "id": 1
+    },
+    {
+      "title": "animals fight",
+      "description": "it's a game of playing animal roles",
+      "id": 2
+    },
+    {
+      "title": "animals fight",
+      "description": "it's a game of playing animal roles",
+      "id": 3
+    },
+    {
+      "title": "friuts knowledage sharing",
+      "description": "sharing how to choose and eat friuts",
+      "id": 4
+    },
+    {
+      "title": "my stream with id",
+      "description": "testing by me",
+      "userId": "115258743072456663215",
+      "id": 5
+    },
+    {
+      "title": "my second stream with id",
+      "description": "testing",
+      "userId": "115258743072456663215",
+      "id": 6
+    },
+    {
+      "title": "my second stream with id",
+      "description": "testing",
+      "userId": "115258743072456663215",
+      "id": 7
+    },
+    {
+      "title": "my third stream with id ",
+      "description": "testing thirdly",
+      "userId": "115258743072456663215",
+      "id": 8
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "testing ",
+      "userId": "115258743072456663215",
+      "id": 9
+    },
+    {
+      "title": "programmatic test 2",
+      "description": "testing",
+      "userId": "115258743072456663215",
+      "id": 10
+    },
+    {
+      "title": "11",
+      "description": "11",
+      "userId": "115258743072456663215",
+      "id": 11
+    },
+    {
+      "title": "12",
+      "description": "12",
+      "userId": "115258743072456663215",
+      "id": 12
+    },
+    {
+      "title": "13",
+      "description": "13",
+      "userId": "115258743072456663215",
+      "id": 13
+    }
+  ]
+}
